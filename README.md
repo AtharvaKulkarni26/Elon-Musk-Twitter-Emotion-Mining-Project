@@ -14,3 +14,12 @@ The main object of the project is cleaning the tweet data and removing all the @
 Then we use the polarity score of the tweets and divide them into positive, neutral and negative performing an emotion mining based on the polarity of the tweet. 
 
 ![](images/elon_sentiment_analysis.PNG)
+
+## Elon Musk Tweets Word CLoud 
+
+![](images/elon_musk_word_cloud.png)
+
+## Emotion mining scatter plot
+
+![](images/scatter_plot_elon.png)
+
