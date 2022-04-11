@@ -5,7 +5,12 @@ Emotion mining is the science of detecting, analyzing, and evaluating humans’ 
 
 ### This small project analyses the tweets of Elon Musk combined together in a dataset using technologies like re, matplotlib, pandas and textblob. 
 
+![](images/elon_musk.PNG)
+
 The main object of the project is cleaning the tweet data and removing all the @ mentions and # and performing sentiment analysis on the data by using textblob, finding out the polarity and subjectivity of the tweets. 
 
+![](images/polar_subjec.PNG)
 
 Then we use the polarity score of the tweets and divide them into positive, neutral and negative performing an emotion mining based on the polarity of the tweet. 
+
+![](images/elon_sentiment_analysis.PNG)
