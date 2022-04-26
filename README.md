@@ -7,7 +7,8 @@ Emotion mining is the science of detecting, analyzing, and evaluating humans’ 
 
 ![](images/elon_musk.PNG)
 
-The main object of the project is cleaning the tweet data and removing all the @ mentions and # and performing sentiment analysis on the data by using textblob, finding out the polarity and subjectivity of the tweets. 
+One of the objects of the project is cleaning the tweet data and removing all the @ mentions and # 
+Then we Perform sentiment analysis on the data by using textblob, finding out the polarity and subjectivity of the tweets. 
 
 ![](images/polar_subjec.PNG)
 
