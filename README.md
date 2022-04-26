@@ -16,7 +16,7 @@ Then we use the polarity score of the tweets and divide them into positive, neut
 
 ![](images/elon_sentiment_analysis.PNG)
 
-## Elon Musk Tweets Word CLoud 
+## Elon Musk Tweets Word Cloud 
 
 ![](images/elon_musk_word_cloud.png)
 
